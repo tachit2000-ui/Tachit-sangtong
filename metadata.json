@@ -1,0 +1,8 @@
+{
+  "name": "1X2 Football Analyst",
+  "description": "วิเคราะห์ผลบอลและโอกาสชนะด้วยระบบคำนวณสถิติย้อนหลังและโมเดล AI 1X2 วิเคราะห์แนวโน้มผลการแข่งขัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
